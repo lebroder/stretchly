@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 - Nepali translations
+- Spanish translations
 
 ## [1.1.0] - 2020-09-12
 
